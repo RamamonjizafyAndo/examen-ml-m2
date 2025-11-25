@@ -67,8 +67,7 @@ Voici la liste des fichiers et liens importants pour évaluer notre travail :
 
 **Liens Utiles :**
 
-* [**LIEN VERS LA VIDÉO DE PRÉSENTATION** (Google Drive / YouTube)](https://www.youtube.com/)  
-* [Lien vers d'autres ressources (Optionnel)](https://www.google.com/)
+* [**LIEN VERS LA VIDÉO DE PRÉSENTATION** https://www.loom.com/share/8d86a96478094b4eb518b5c68f827256]
 
 ### **4\. Réponses aux Questions d'Analyse**
 
